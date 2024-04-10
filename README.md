@@ -10,7 +10,8 @@ Soma = 91
 
 ### Questão 2
 
-Resposta da Questão 2 aqui...
+Resposta da Questão 2 abaixo:
+[Arquivo .java]()
 
 ### Questão 3
 
